@@ -1,3 +1,7 @@
 lib/
 bin/
 !bin/*.bat
+build/
+extern/
+**/Ext_Discregrid/
+**/Ext_GenericParameters/
